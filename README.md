@@ -12,13 +12,4 @@
   4. Your task in this assignment is to alter this behavior such that when the user clicks on the Specials tile, the web app takes the user to a random single category menu page, listing menu items in the category, be it "Lunch", "Dinner", "Sushi", etc. 
   5. That way, any random category can become the Specials! 
   **What fun! (not! :-) )**
-  
- Overall, This course teaches me,
-  
-* Understand the tools required to build an aesthetic and fully functional website
-* Comprehend the workings of a website at the HTML and CSS level
-* Usage of additional Javascript libraries such as React, Angular
-* Know the coding of software applications and syntax in javascript
-* Know the history, setting, and arrangement of web development
-* Understand server-client dynamics using Ajax
-* Be able to take upon great web application projects.
+ 
