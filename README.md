@@ -8,8 +8,8 @@
   In this assignment,
   1. I built a fully resopnsive & functional restaurant web application. 
   2. The front page of our web app contains 3 clickable tiles: Menu, Specials, and Map. 
-  3. If you click on the Specials tile, you will be taken to a single category page where all the menu items that belong to the Specials menu category will be shown. 
-  4. Your task in this assignment is to alter this behavior such that when the user clicks on the Specials tile, the web app takes the user to a random single category menu page, listing menu items in the category, be it "Lunch", "Dinner", "Sushi", etc. 
+  3. If we click on the Specials tile, that will be taken to a single category page where all the menu items that belong to the Specials menu category will be shown. 
+  4. The task in this assignment is to alter this behavior such that when the user clicks on the Specials tile, the web app takes the user to a random single category menu page, listing menu items in the category, be it "Lunch", "Dinner", "Sushi", etc. 
   5. That way, any random category can become the Specials! 
   **What fun! (not! :-) )**
  
