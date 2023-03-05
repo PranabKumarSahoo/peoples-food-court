@@ -14,11 +14,15 @@
   **What fun! (not! :-) )**
  
 # Website Demo Captures
+
 **Capture 1**
 <img src="https://github.com/PranabKumarSahoo/module5-solution/blob/master/Website%20Demo%20Captures/capture1.png" width="550" height="280">
+
 **Capture 2**
 <img src="https://github.com/PranabKumarSahoo/module5-solution/blob/master/Website%20Demo%20Captures/capture2.png" width="550" height="280">
+
 **Capture 3**
 <img src="https://github.com/PranabKumarSahoo/module5-solution/blob/master/Website%20Demo%20Captures/capture3.png" width="550" height="280">
+
 **Capture 4**
 <img src="https://github.com/PranabKumarSahoo/module5-solution/blob/master/Website%20Demo%20Captures/capture4.png" width="550" height="280">
