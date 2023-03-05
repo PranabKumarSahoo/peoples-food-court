@@ -13,5 +13,5 @@
   5. That way, any random category can become the Specials! 
   **What fun! (not! :-) )**
  
-##Website Demo Captures
+# Website Demo Captures
 <img src="https://github.com/PranabKumarSahoo/module5-solution/blob/master/Website%20Demo%20Captures/capture%20(1).png" width="150" height="280">
