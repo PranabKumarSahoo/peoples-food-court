@@ -15,7 +15,7 @@
  
 # Website Demo Captures
 
-**Capture 1**
+#Capture 1
 <img src="https://github.com/PranabKumarSahoo/module5-solution/blob/master/Website%20Demo%20Captures/capture1.png" width="550" height="280">
 
 **Capture 2**
