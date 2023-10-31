@@ -12,6 +12,7 @@
   4. The task in this assignment is to alter this behavior such that when the user clicks on the Specials tile, the web app takes the user to a random single category menu page, listing menu items in the category, be it "Lunch", "Dinner", "Sushi", etc. 
   5. That way, any random category can become the Specials! 
   **What fun! (not! :-) )**
+  6. Also deployed the application to firebase: [Live](https://peoples-food-court.web.app)
  
 # Website Demo Captures
 
