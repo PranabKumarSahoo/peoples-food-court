@@ -1,4 +1,3 @@
-# Visit Website: [module5-solution](https://pranabkumarsahoo.github.io/module5-solution)
 # Description:-
   This is the 5th that is final assignment, 
   A simple Javascript programming problem to practice.
