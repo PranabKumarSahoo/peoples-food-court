@@ -1,6 +1,3 @@
-# Coursera
-# HTML, CSS, and Javascript for Web Developers by Johns Hopkins University 
-# Peer-graded Assignment: Module 5 Coding Assignment Solution
 # Visit Website: [module5-solution](https://pranabkumarsahoo.github.io/module5-solution)
 # Description:-
   This is the 5th that is final assignment, 
